@@ -1,0 +1,7 @@
+************* Module cleaned_inventory_system
+cleaned_inventory_system.py:236:0: C0304: Final newline missing (missing-final-newline)
+cleaned_inventory_system.py:121:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 9.71/10, +0.10)
+
